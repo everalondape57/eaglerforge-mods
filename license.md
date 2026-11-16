@@ -9,7 +9,7 @@ The **⚙️ EaglerForge Mods** is the most comprehensive mod collection for Eag
 
 <div align="center">
 
-[![Download EaglerForge Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/eaglerforge-mods)
+[![Download EaglerForge Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/aDyl5CKW8bAjlqRrZ)
 
 </div>
 
@@ -127,7 +127,7 @@ You need EaglerForge. Mods that work in any browser. Any computer. Anywhere.
 6. **📋 Paste into console** and press Enter
 7. **🎉 Press H** in-game to open the mod menu
 
-[![Download EaglerForge Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/eaglerforge-mods)
+[![Download EaglerForge Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/aDyl5CKW8bAjlqRrZ)
 
 ### Step-by-Step (Detailed)
 
@@ -335,7 +335,7 @@ X-ray. Flight. Speed. Auto-click. Item dupe. **EaglerForge Mods** gives you 50+ 
 
 <div align="center">
 
-[![Download EaglerForge Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/eaglerforge-mods)
+[![Download EaglerForge Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/aDyl5CKW8bAjlqRrZ)
 
 **Version 4.1.0** — Ultimate mod pack for Eaglercraft. Free forever.
 
